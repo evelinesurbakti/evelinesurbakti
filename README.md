@@ -3,7 +3,7 @@ Hello there, nice to see you 👋
 </h1>
 
 <p align='left'>
-R & Python Developer and Data Science Student in Dublin, Ireland.
+R & Python Developer based in Dublin, Ireland.
 </p>
 
 <p align='left'>
