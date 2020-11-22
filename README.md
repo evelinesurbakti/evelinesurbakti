@@ -4,6 +4,7 @@ Hello there, nice to see you 👋
 
 <p align='left'>
 R & Python Developer based in Dublin, Ireland.
+  Let's explore and solve the problems!
 </p>
 
 <p align='left'>
