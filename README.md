@@ -66,4 +66,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.buymeacoffee.com/evelinesurbakti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 6px !important;width: 22px !important;" ></a>
+Buy me a coffee if you want to have an hour discussion with me
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="evelinesurbakti" data-color="#40DCA5" data-emoji="🍕"  data-font="Arial" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
