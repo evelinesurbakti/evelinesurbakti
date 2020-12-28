@@ -6,7 +6,7 @@ Hello there, nice to see you 👋
 R & Python Developer based in Dublin, Ireland.
   </p>
 <p align='left'>
-  Let's explore and solve the problems!
+  Let's harness the ever-expanding world of data, and turn it into actionable insights.
 </p>
 
 <p align='left'>
