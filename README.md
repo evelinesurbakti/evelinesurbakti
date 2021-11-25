@@ -31,22 +31,22 @@ R & Python Developer based in Dublin, Ireland.
   <summary>📃 My Resume</summary>
 
 
-## Education
-
+## Education & Experience
+- 👨‍💻 **Research Project Lead**\
+📆 2020 - Present\
+📍 **Data Sciences** - Dublin, Ireland
+  
 - 📖 **MSc in Data and Computational Science**\
 📆 2019 - 2020\
 📍 **University College Dublin** - Dublin, Ireland
 
-
-- 📖 **BSc in Industrial Engineering**\
-📆 2012 - 2016\
-📍 **President University** - Bekasi, Indonesia
-
-## Experience
 - 👨‍💻 **Business Analyst**\
 📆 2016 - 2019\
 📍 **Bank Central Asia** - Jakarta, Indonesia
 
+- 📖 **BSc in Industrial Engineering**\
+📆 2012 - 2016\
+📍 **President University** - Bekasi, Indonesia
 </details>
 
 
