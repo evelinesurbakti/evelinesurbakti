@@ -3,7 +3,7 @@ Hello there, nice to see you 👋
 </h1>
 
 <p align='left'>
-R & Python Developer based in Dublin, Ireland.
+A data analyst based in Dublin, Ireland.
   </p>
 <p align='left'>
   Let's harness the ever-expanding world of data, and turn it into actionable insights.
@@ -15,9 +15,6 @@ R & Python Developer based in Dublin, Ireland.
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/evelinesurbakti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/evelinesurbakti">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
 <p align='left'>
