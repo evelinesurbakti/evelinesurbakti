@@ -30,10 +30,13 @@ R & Python Developer based in Dublin, Ireland.
 <details>
   <summary>📃 My Resume</summary>
 
-
 ## Education & Experience
+- 👨‍💻 **Data Analyst**\
+📆 2022 - Present\
+📍 **Autodesk** - Dublin, Ireland
+  
 - 👨‍💻 **Research Project Lead**\
-📆 2020 - Present\
+📆 2021 - 2022\
 📍 **Data Sciences** - Dublin, Ireland
   
 - 📖 **MSc in Data and Computational Science**\
